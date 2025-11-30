@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <p align="center">
   <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 </p>
@@ -20,3 +19,24 @@ I am a computer engineering from México, I am expanding my knowledge in both fr
 - 👉 Outside tech, I love 🎵 listening to music, and 📖 reading science books.
 - 👉 Additionally, I like play with electronic board like Arduino or Rapsberry Pi👾
 - 👉 Reach out to me at: <a href="ericksode@gmail.com">ericksode@gmail.com</a>📫
+## 🛠️ My Skills
+### ⚡ Programming languages
+
+### ⚡ Frontend development
+
+### ⚡ Databases
+
+### ⚡ Cloud & Hosting
+
+### ⚡ Testing
+
+### ⚡ Version Control & CI/CD
+
+### ⚡ IDEs & Tools
+
+## 💼 Let's Connect
+<p align="center">
+	<a href="mailto:ericksode@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/ericksode"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="www.linkedin.com/in/erick-solorzano-delgado-66aa212b0"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
