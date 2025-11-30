@@ -18,5 +18,5 @@ I am a computer engineering from México, I am expanding my knowledge in both fr
 - 👉 I’m looking forward to collaborate on open source projects.
 - 👉 Ask me about anything, I am happy to help.
 - 👉 Outside tech, I love 🎵 listening to music, and 📖 reading science books.
-- 👉 Additionally, I like create code and play with electronic board like Arduino or Rapsberry Pi👾
+- 👉 Additionally, I like play with electronic board like Arduino or Rapsberry Pi👾
 - 👉 Reach out to me at: <a href="ericksode@gmail.com">ericksode@gmail.com</a>📫
