@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img style="width:5rem; height:auto" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </p>
 
 <h1 align="center">Hi, I'm Erick Solórzano<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
