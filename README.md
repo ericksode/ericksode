@@ -9,16 +9,17 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a computer engineering from México, I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for payment processing.
-- 👉 I’m currently learning ...
+- 👉I’m currently learning ...
   - Vide Code
   - Code with agents IA
   - MCP´s
   - Android Studio
-- 👉 I’m looking forward to collaborate on open source projects.
-- 👉 Ask me about anything, I am happy to help.
-- 👉 Outside tech, I love 🎵 listening to music, and 📖 reading science books.
-- 👉 Additionally, I like play with electronic board like Arduino or Rapsberry Pi👾
-- 👉 Reach out to me at: <a href="ericksode@gmail.com">ericksode@gmail.com</a>📫
+  
+- 👉I’m looking forward to collaborate on open source projects.
+- 👉Ask me about anything, I am happy to help.
+- 👉Outside tech, I love 🎵 listening to music, and 📖 reading science books.
+- 👉Additionally, I like play with electronic board like Arduino or Rapsberry Pi 👾
+- 👉Reach out to me at: <a href="ericksode@gmail.com">ericksode@gmail.com</a>📫
 ## 🛠️ My Skills
 ### ⚡ Programming languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
